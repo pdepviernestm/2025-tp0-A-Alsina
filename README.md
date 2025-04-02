@@ -15,4 +15,4 @@
 * Escuchar música
 
 
-![Imagen de mi perro](/assets/images/ImagenPerro.jpg)
+![Imagen de mi perro](ImagenPerro.jpg)
