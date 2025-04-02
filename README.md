@@ -1,11 +1,18 @@
-#Información personal
+##Información personal
+
 *Mi nombre es Agustin Alsina
+
 *Vivo en la ciudad Autonoma de Buenos Aires
+
 *Tengo un perro
 
-#Intereses
+##Intereses
+
 *Hago natación
+
 *Juego al ajedrez
+
 *Escuchar música
 
-![Imagen de mi perro](Imagen Perro.jpg)
+
+![Imagen de mi perro](2025-tp0-A-Alsina/Imagen Perro.jpg)
